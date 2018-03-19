@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Them Boys </title>
+
+	<style type="text/css">
+		.blog-title {
+			color: red;
+			font-family: Times;
+		}
+
+		#page-title {
+			font-family: Times;
+			color: black;
+			font-size: 50px;
+		}
+
+		.blog-post {
+			background-color: #ad7a43;
+			double: 5px black;
+			double-radius: 70px;
+			margin-bottom: 10px;
+			padding: 30px;
+		}
+
+		img {
+			display: block;
+			margin: auto;
+		}
+
+		#content {
+			 background-color: #d17a40;
+			 margin-left: 10%;
+			 margin-right: 10%;
+			 padding: 10px;
+			 border: 10px green; 
+		}
+
+		body {
+			background: url(https://i.imgur.com/V5MIa0y.gif);
+		}
+	</style>
+</head>
+<body>
+	<div id="content">
+		<h1 id="page-title">Them Boys</h1>
+
+		<div class="blog-post">
+			<h1 class="blog-title">Richard Dunn</h1>
+			<img src="https://ia.media-imdb.com/images/M/MV5BMTY2MDU0NzMwM15BMl5BanBnXkFtZTgwMDQ5MDgzMjE@._V1_UY317_CR104,0,214,317_AL_.jpg">
+			<p>Richard Dunn is a political revolutionary who ran a squadran of the 501st on Pyongang during the poltical revolution against Gaingas DeNafrio of 1966 and is singlehandedly one of the most inspiring revolutionaries to date.He was picked off by a 50.Cal MG and died like a coward. Richard Dunn now lives a confortable life in Santa Monica with his beautiful wife, Diesel. This was the last known photo of Richard Dunn taken back in 2009 at the Grammys and was recipient of most Honorable Funk Song of 2008.</p>
+		</div>
+
+		<div class="blog-post">
+			<h1 class="blog-title">James Quall</h1>
+			<img src="https://img.discogs.com/V-7AUqe9tSS9dCKNQ4wEjXIWLQ4=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/A-1187233-1335324249.jpeg.jpg">
+			<p>James Quall is 12 Time Oscar winning actor, Director And Producer. James Quall's most honorable mention was his hit cult classic indie film that blew up overnight, "Back To Squall". While James Quall has ended up in some Hot water latley following his most controversial film."Squallege:Forgive And Forget", James Quall still remains one of the most respected actors and directors of our Time.  </p>
+		</div>
+
+		<div class="blog-post">
+			<h1 class="blog-title">MC Ride</h1>
+			<img src="https://pbs.twimg.com/profile_images/378800000758437408/b5f3cc10d9adb85e9e05538d42b36b59_400x400.png">
+			<p>MC Ride is And Always Was</p>
+		</div>
+	</div>
+</body>
+</html>
